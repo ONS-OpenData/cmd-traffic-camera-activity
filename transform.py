@@ -9,7 +9,7 @@ from api_pipeline import Multi_Upload_To_Cmd ##
 # file paths that may need to be changed
 location = 'inputs/traffic-camera-activity/*.xlsx' # path to source data
 output = 'D:/' # output file written here
-metadata_file = 'inputs/traffic-camera-activity/traffic-camera-activity-time-series-v1.csv-metadata.json' # path to metadata file
+metadata_file = 'inputs/traffic-camera-activity/traffic-camera-activity-time-series-v4.csv-metadata.json' # path to metadata file
 credentials = 'florence-details.json' # path to login details
 
 file = glob.glob(location)
