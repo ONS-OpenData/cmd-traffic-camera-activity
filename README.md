@@ -1,6 +1,6 @@
-# cmd-taffic-camera-activity
+# cmd-traffic-camera-activity
 
-Script for tansforming traffic camera activity.
+Script for transforming traffic camera activity.
 
 Transform takes 1 input xlsx file, remove any previous xlsx files so there is no confusion in which spreadsheet is picked up. The input file is found from the ONS website https://www.ons.gov.uk/economy/economicoutputandproductivity/output/datasets/trafficcameraactivity
 
